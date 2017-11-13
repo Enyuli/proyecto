@@ -186,7 +186,7 @@
                                                   +"<td>"+data[i][1][0]['Lucro']+"</td>"
                                                  +"</tr>"
                                                  +"<tr class='style-tr'>"
-                                                 +"<td></td>"
+                                                 +"<td>Saldo</td>"
                                                   +"<td>"+total_neto+"</td>"
                                                   +"<td>"+total_costo_fijo+"</td>"
                                                   +"<td>"+total_comision+"</td>"
