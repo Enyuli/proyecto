@@ -1,0 +1,113 @@
+body{
+	margin:0;
+	font-family:"Helvetica";
+	font-size:14px;
+}
+
+.tabla_principal{
+    margin-left: auto;
+    margin-right: auto;
+	width:1000px;
+	height: 200px;
+}
+
+.style_button_action {
+	width:100px;
+
+}
+
+.style-tr {
+	background-color:#e1dddd !important;
+}
+.style_button_iconos {
+	width:15px;
+}
+.style-title {
+
+	padding-left: 10px;
+}
+.style-panel{
+	height: 5px;
+	background-color: #d5d2d1;
+	border-color: #bce8f1;
+
+}
+
+
+.style-botonera{
+	padding-left: 25px;
+	padding-top: 15px;
+	
+}
+
+.style-row{
+	padding-left: 10px;
+	padding-bottom:10px;
+}
+
+	
+.style-fondo-selected{
+	
+    font-size: 12px;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+	margin-right: 5px !important;
+	margin-left: : -5px !important;
+
+}
+#div_selected{
+overflow-y: scroll;
+overflow-x: auto;
+height: 106px;
+width: 300px;
+padding-left: 5px;
+}
+	
+
+.container-body{
+
+	width:1349px;
+	height: 500px;
+	
+}
+
+.contenedor{
+	width:1000px;
+	margin:0 auto;
+}
+
+header .style_logo{
+	margin-left: 1000px;
+
+}
+
+header{
+	background:white;
+	color:hsl(0,0%,100%);
+	heigth:200px;
+}
+
+header .contenedor{
+	padding-top:40px;
+}
+
+
+ 
+nav {
+  
+	margin-bottom:30px;
+	
+}
+
+
+body > footer{
+	text-align: right;
+	font-size: 10px;
+	background: #666;
+	width:1348px;
+	height: 30px;
+	display:scroll;
+    position:fixed;
+        
+	
+}
